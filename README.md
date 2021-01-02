@@ -1,0 +1,2 @@
+# crud_sample_with_angular
+crud_sample_with_angular sample
